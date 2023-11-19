@@ -9,6 +9,9 @@ DEVICE_PATH := device/xiaomi/stone
 # Inherit from sm6375-common
 include device/xiaomi/sm6375-common/BoardConfigCommon.mk
 
+# Board Info
+TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
+
 # Display
 TARGET_SCREEN_DENSITY := 440
 
