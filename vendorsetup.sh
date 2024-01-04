@@ -2,7 +2,7 @@ git clone https://github.com/Stone-Trees/device_xiaomi_sm6375-common.git -b line
 
 git clone --depth=1 https://github.com/Stone-Trees/vendor_xiaomi.git -b lineage-21 vendor/xiaomi
 
-git clone --depth=1 https://github.com/Stone-Trees/kernel_xiaomi_sm6375.git -b lineage-20 kernel/xiaomi/sm6375
+git clone --depth=1 https://github.com/crdroidandroid/android_kernel_xiaomi_sm6375.git -b 14.0 kernel/xiaomi/sm6375
 
 git clone --depth=1 https://github.com/Stone-Trees/xiaomi_stone-kernel.git device/xiaomi/stone-kernel
 
