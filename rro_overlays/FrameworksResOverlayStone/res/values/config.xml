@@ -301,7 +301,7 @@
 
     <!-- The maximum range of gamma adjustment possible using the screen
          auto-brightness adjustment setting. -->
-    <fraction name="config_autoBrightnessAdjustmentMaxGamma">100%</fraction>
+    <fraction name="config_autoBrightnessAdjustmentMaxGamma">150%</fraction>
 
     <!-- Minimum screen brightness setting allowed by power manager.
          The user is forbidden from setting the brightness below this level.
