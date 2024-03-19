@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_stone.mk
+    $(LOCAL_DIR)/cipher_stone.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_stone-user \
-    lineage_stone-userdebug \
-    lineage_stone-eng
+    cipher_stone-user \
+    cipher_stone-userdebug \
+    cipher_stone-eng
